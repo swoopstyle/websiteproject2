@@ -1,0 +1,56 @@
+/* {
+  color: black;
+  font-size: 15px;
+  text-align: center; 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} */
+
+
+.navbar {
+  color: red;
+  text-align: right;
+  font-size: 30px;
+}
+
+.navbar:hover{
+  color: blue;
+  text-align: right;
+  font-size: 30px;
+}
+.navar a {
+  text-decoration: none;
+  color: aquamarine;
+}
+
+.navbar a:hover {
+  text-decoration: none;
+  color: yellowgreen;
+  text-align: right;
+  font-size: 30px;
+}
+
+
+#movies {
+  color: blueviolet;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+}
+
+.list-movies {
+  color: blue;
+  font-size: 25px;
+}
+
+/* h1 {
+  color: blue;
+}
+
+p {
+  font-size: 20px;
+  color: blueviolet;
+}
+
+p2 {
+  font-size: 15px;
+  color: aqua;
+} */
