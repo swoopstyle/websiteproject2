@@ -1,10 +1,8 @@
-/* {
-  color: black;
-  font-size: 15px;
-  text-align: center; 
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-} */
-
+* {
+  background-color: beige;
+  justify-content: center;
+  
+}
 
 .navbar {
   color: red;
